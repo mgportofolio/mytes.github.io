@@ -1,0 +1,37 @@
+body
+{
+	color: gold;
+	background-color: black;
+}
+
+.title,.tes
+{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin-bottom: 10px;
+}
+
+.title
+{
+	background-color: gold;
+	color: black;
+}
+
+.btn
+{
+	font-size: 15px;
+	border: 1px solid gold;
+	color: gold;
+	background-color: black;
+	border-radius: 15px;
+}
+
+.btn:hover
+{
+	font-size: 16px;
+	border: 2px solid gold;
+	color: gold;
+	background-color: black;
+	border-radius: 12px;
+}
